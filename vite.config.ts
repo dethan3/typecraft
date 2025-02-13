@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   server: {
     allowedHosts: [
-      '5173-dethan3-tscamp-zbedaaf04gp.ws-us117.gitpod.io'
+      '5173-dethan3-typecraft-ix2t130hkh3.ws-us117.gitpod.io'
     ]
   }
 })
